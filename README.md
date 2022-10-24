@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neel-shetty)](https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-stats.vercel.app/api?username=Neel-shetty&count_private=true)
 
 <!--
 **Neel-shetty/Neel-shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
