@@ -1,6 +1,9 @@
 ### Hi there 👋
-![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neel-shetty&show_icons=true&theme=radical&hide=stars,issues)
-![Top Langs]
+🌱 I’m currently learning ...
+- React-native
+- C
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neel-shetty&show_icons=true&theme=radical&hide=stars,issues" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-shetty&layout=compact" />
 
 <!--
