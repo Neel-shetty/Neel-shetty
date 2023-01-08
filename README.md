@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **React Native, Redux, C, MongoDB, Algorithms and many more**
+- 🌱 I’m currently learning **React Native, animations specifically. **
 
 - 👯 I’m looking to collaborate on **any React Native project**
 
-- 🤝 I’m looking for help with **understanding blender source code**
+- 🤝 I’m looking for help with **integrating native android code with react native**
 
-- 💬 Ask me about **how to get started with coding, although I might not be the best person to ask**
+- 💬 Ask me about **how to get started with mobile app development**
 
 - 📫 How to reach me **neelnarayanshetty@gmail.com**
 
