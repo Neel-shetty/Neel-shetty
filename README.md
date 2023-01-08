@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **React Native, animations specifically. **
+- 🌱 I’m currently learning **React Native, animations specifically**
 
 - 👯 I’m looking to collaborate on **any React Native project**
 
