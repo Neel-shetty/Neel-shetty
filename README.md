@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **React Native, animations specifically**
+- 🌱 I’m currently learning **Rust!**
 
 - 👯 I’m looking to collaborate on **any React Native project**
-
-- 🤝 I’m looking for help with **integrating native android code with react native**
 
 - 💬 Ask me about **how to get started with mobile app development**
 
