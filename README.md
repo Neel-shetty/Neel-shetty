@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Rust!**
 
-- 👯 I’m looking to collaborate on **any React Native project**
-
 - 💬 Ask me about **how to get started with mobile app development**
 
-- 📫 How to reach me **neelnarayanshetty@gmail.com**
+- 📫 How to reach me **neelnarayanshetty@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
