@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neel-shetty&label=Profile%20views&color=000000&style=flat" alt="neel-shetty" /> </p>
 
-- 🔭 I’m currently working on **React Native**
-
-- 🌱 I’m currently learning **Rust!**
+- 🌱 I’m currently learning **C!**
 
 - 💬 Ask me about **how to get started with mobile app development**
 
