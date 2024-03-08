@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Neel, nice to meet you.</h1>
-<h3 align="center">Ex React-Native dev taking refugee in C</h3>
+<h3 align="center">Ex React-Native dev taking refuge in C</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neel-shetty&label=Profile%20views&color=000000&style=flat" alt="neel-shetty" /> </p>
 
