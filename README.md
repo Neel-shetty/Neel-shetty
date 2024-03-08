@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Neel</h1>
-<h3 align="center">Rookie cross-platform app developer</h3>
+<h1 align="center">Hello👋, I'm Neel, nice to meet you</h1>
+<h3 align="center">Ex React-Native dev taking refugee in C</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neel-shetty&label=Profile%20views&color=000000&style=flat" alt="neel-shetty" /> </p>
 
-- 🌱 I’m currently learning **C!**
-
-- 💬 Ask me about **how to get started with mobile app development**
+- 🌱 I’m currently learning about **Compilers!**
 
 - 📫 How to reach me **neelnarayanshetty@protonmail.com**
 
